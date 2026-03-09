@@ -1,24 +1,18 @@
 ```go
-package main
+\package profile
 
-import "fmt"
-
-func main() {
-    aswin := Developer{
-        Name:        "Aswin TR",
-        Degree:      "BTech in Civil Engineering",
-        Diploma:     "Civil Engineering",
-        TechStack:   []string{"JavaScript", "React", "Python", "Go"},
-        CurrentGoal: "Building professional-grade web applications",
-    }
-
-    fmt.Println("Welcome to my profile!")
+type Engineer struct {
+    Name     string
+    Degree   string
+    Diploma  string
+    Location string
 }
 
-type Developer struct {
-    Name        string
-    Degree      string
-    Diploma     string
-    TechStack   []string
-    CurrentGoal string
+func GetAswin() Engineer {
+    return Engineer{
+        Name:     "Aswin TR",
+        Degree:   "BTech in Civil Engineering",
+        Diploma:  "Civil Engineering",
+        Location: "Kerala, India",
+    }
 }
