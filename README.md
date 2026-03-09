@@ -21,6 +21,6 @@ func GetAswin() Engineer {
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,python,go,html,css,tailwind,nodejs,mongodb,postgres,git,docker" />
+    <img src="https://skillicons.dev/icons?i=AutoCAD,Revit,Sketchup,Rhino,Grasshopper,js,react,python,html,css" />
   </a>
 </p>
