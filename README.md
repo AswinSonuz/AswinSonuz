@@ -16,3 +16,11 @@ func GetAswin() Engineer {
         Location: "Kerala, India",
     }
 }
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,python,go,html,css,tailwind,nodejs,mongodb,postgres,git,docker" />
+  </a>
+</p>
