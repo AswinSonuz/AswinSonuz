@@ -1,5 +1,8 @@
+Hi, I'm Aswin TR 👋
 ```go
-\package profile
+Civil Engineer 🏗️ ➔ Full-Stack Developer 💻
+
+package profile
 
 type Engineer struct {
     Name     string
@@ -17,6 +20,7 @@ func GetAswin() Engineer {
     }
 }
 ```
+
 🏗️ Engineering & Design Stack
 
 <p align="left">
