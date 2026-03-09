@@ -24,8 +24,8 @@ func GetAswin() Engineer {
 🏗️ Engineering & Design Stack
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AutoCAD-%2523063545.svg%3Fstyle%3Dfor-the-badge%26logo%3Dautodesk%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Revit-%2523FF3333.svg%3Fstyle%3Dfor-the-badge%26logo%3Dautodesk%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/AutoCAD-%2523063545.svg%3Fstyle%3Dfor-the-badge%26logo%3Dautodesk%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Revit-%2523FF3333.svg%3Fstyle%3Dfor-the-badge%26logo%3Dautodesk%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SketchUp-%2523005F9E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dsketchup%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Rhino-%2523851010.svg%3Fstyle%3Dfor-the-badge%26logo%3Drhino%26logoColor%3Dwhite" />
 </p>
